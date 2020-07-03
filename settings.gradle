@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "pratical3.1.3"
